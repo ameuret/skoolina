@@ -59,7 +59,7 @@ I hope it will help someone.
                         0xACAFAF, 0xCACDCD, 0xE6E8E7, 0xFFFFFF]
 ```
 
-  * And load the coustom palette using:
+  * And load the custom palette using:
   
 ```python
     pyxel.colors.from_list(self.palette)
